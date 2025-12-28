@@ -1,6 +1,16 @@
 
-<h1 align="center">Hi👋 I'm Pureddy Lavanya 💫</h1>
-<h3 align="center">Frontend Developer</h3>
+<h1 align="center">Hi👋 I'm Pureddy Lavanya</h1>
+<h3 align="center">Frontend Developer</h3> 
+<!-- <p align="center" >
+  <samp>
+    My name is <em>Pureddy Lavanya</em>. I am a Frontend Developer... 
+  <br/> Tech enthusiast...
+      <br/>
+  </samp>
+  <br/>
+  <br/>
+  <br/>
+</p> -->
 
 <!-- ![](https://komarev.com/ghpvc/?username=lavanya-p-dev)   (profile view count)-->
 <br>
@@ -50,14 +60,11 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
 <br><br>
 
-<br><br>
-
  <a href="http://www.github.com/lavanya-p-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lavanya-p-dev&stroke=ffffff&background=8A2BE2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <br><br>
 
 <!-- <a href="http://www.github.com/lavanya-p-dev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=lavanya-p-dev&bg_color=8A2BE2&color=ffffff&line=FFD700&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
-<br><br>
 <!-- `Hits Count`:<br><br>
 &nbsp; [![HitCount](http://hits.dwyl.com/lavanya-p-dev/lavanya-p-dev.svg)](http://hits.dwyl.com/lavanya-p-dev/lavanya-p-dev)
 <br><br> -->
