@@ -1,28 +1,14 @@
-<!--
-**lavanya-p-dev/lavanya-p-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h1 align="center">Hi👋 I'm Pureddy Lavanya 💫</h1>
 <h3 align="center">Frontend Developer</h3>
 
-![](https://komarev.com/ghpvc/?username=lavanya-p-dev)
+<!-- ![](https://komarev.com/ghpvc/?username=lavanya-p-dev)   (profile view count)-->
 <br>
 
-### :trophy: `Trophies`:
+<!-- ### :trophy: `Trophies`:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lavanya-p-dev)](https://github.com/lavanya-p-dev)
-      <br><br>
+      <br><br> -->
 🔭 I’m currently working on `Angular,React Projects`
 
 🌱 I’m currently learning `Angular,React`
@@ -64,22 +50,17 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
 <br><br>
 
-<a href="https://github.com/lavanya-p-dev">
- <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya-p-dev&theme=dark&bg_color=8A2BE2&text_color=ffffff&title_color=fff&icon_color=FFD700&hide_langs_below=1" />
-</a>
-
-
 <br><br>
 
  <a href="http://www.github.com/lavanya-p-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lavanya-p-dev&stroke=ffffff&background=8A2BE2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <br><br>
 
-<a href="http://www.github.com/lavanya-p-dev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=lavanya-p-dev&bg_color=8A2BE2&color=ffffff&line=FFD700&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/lavanya-p-dev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=lavanya-p-dev&bg_color=8A2BE2&color=ffffff&line=FFD700&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 <br><br>
-`Hits Count`:<br><br>
+<!-- `Hits Count`:<br><br>
 &nbsp; [![HitCount](http://hits.dwyl.com/lavanya-p-dev/lavanya-p-dev.svg)](http://hits.dwyl.com/lavanya-p-dev/lavanya-p-dev)
-<br><br>
+<br><br> -->
 
 `Visit My Profiles`:<br><br>
 &nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=Linkedin&link=[https://www.linkedin.com/in/p-lavanya-3147p/]([https://www.linkedin.com/in/pureddylavanya/](https://www.linkedin.com/in/pureddylavanya/)))](https://www.linkedin.com/in/pureddylavanya/)&nbsp; 
