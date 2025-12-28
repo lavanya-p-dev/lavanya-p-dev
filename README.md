@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi👋 I'm Pureddy Lavanya 💫</h1>
 <h3 align="center">Frontend Developer</h3>
 
-![](https://komarev.com/ghpvc/?username=PureddyLavanya)
+![](https://komarev.com/ghpvc/?username=lavanya-p-dev)
 <br>
 
 ### :trophy: `Trophies`:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PureddyLavanya)](https://github.com/PureddyLavanya)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lavanya-p-dev)](https://github.com/lavanya-p-dev)
       <br><br>
 🔭 I’m currently working on `Angular,React Projects`
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 👯 I’m looking to collaborate on `open source project`
 
-👨‍💻 All of my projects are available at <a href="https://github.com/PureddyLavanya"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></a>
+👨‍💻 All of my projects are available at <a href="https://github.com/lavanya-p-dev"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></a>
 
 💬 Ask me about html,css,javascript
 
@@ -64,31 +64,31 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
 <br><br>
 
-<a href="https://github.com/PureddyLavanya">
- <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PureddyLavanya&theme=dark&bg_color=8A2BE2&text_color=ffffff&title_color=fff&icon_color=FFD700&hide_langs_below=1" />
+<a href="https://github.com/lavanya-p-dev">
+ <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya-p-dev&theme=dark&bg_color=8A2BE2&text_color=ffffff&title_color=fff&icon_color=FFD700&hide_langs_below=1" />
 </a>
 
 
 <br><br>
 
- <a href="http://www.github.com/PureddyLavanya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PureddyLavanya&stroke=ffffff&background=8A2BE2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ <a href="http://www.github.com/lavanya-p-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lavanya-p-dev&stroke=ffffff&background=8A2BE2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <br><br>
 
-<a href="http://www.github.com/PureddyLavanya"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=PureddyLavanya&bg_color=8A2BE2&color=ffffff&line=FFD700&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/lavanya-p-dev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=lavanya-p-dev&bg_color=8A2BE2&color=ffffff&line=FFD700&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <br><br>
 `Hits Count`:<br><br>
-&nbsp; [![HitCount](http://hits.dwyl.com/PureddyLavanya/PureddyLavanya.svg)](http://hits.dwyl.com/PureddyLavanya/PureddyLavanya)
+&nbsp; [![HitCount](http://hits.dwyl.com/lavanya-p-dev/lavanya-p-dev.svg)](http://hits.dwyl.com/lavanya-p-dev/lavanya-p-dev)
 <br><br>
 
 `Visit My Profiles`:<br><br>
-&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/p-lavanya-3147p/)](https://www.linkedin.com/in/p-lavanya-3147p/)&nbsp; 
+&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=Linkedin&link=[https://www.linkedin.com/in/p-lavanya-3147p/]([https://www.linkedin.com/in/pureddylavanya/](https://www.linkedin.com/in/pureddylavanya/)))](https://www.linkedin.com/in/pureddylavanya/)&nbsp; 
  [![leetcode](https://img.shields.io/badge/-Leetcode-333333?style=flat-square&logo=leetcode)](https://leetcode.com/Lavanyap89/)&nbsp;
  [![CodeChef](https://img.shields.io/badge/-CodeChef-333333?style=flat-square&logo=codechef)](https://www.codechef.com/users/pureddylavanya)&nbsp;
  [![HackerEarth](https://img.shields.io/badge/-HackerEarth-333333?style=flat-square&logo=hackerearth)](https://www.hackerearth.com/@PureddyLavanya)&nbsp;
  [![HackerRank](https://img.shields.io/badge/-HackerRank-333333?style=flat-square&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/Lavanya7133?hr_r=1)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/PureddyLavanya.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/PureddyLavanya?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/PureddyLavanya.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/lavanya-p-dev?tab=followers)
 <br><br>
 
-🌟 From <a href="https://github.com/PureddyLavanya">PureddyLavanya</a>
+🌟 From <a href="https://github.com/lavanya-p-dev">PureddyLavanya</a>
 
