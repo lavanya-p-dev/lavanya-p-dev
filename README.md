@@ -29,7 +29,7 @@
 
 💬 Ask me about html,css,javascript
 
-📫 How to reach me: &nbsp;[![gmail](https://img.shields.io/badge/-Gmail-333333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pureddylavanya2002@gmail.com)](mailto:pureddylavanya2002@gmail.com)
+📫 How to reach me: &nbsp;[![gmail](https://img.shields.io/badge/-Gmail-333333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pureddylavanya2002@gmail.com)](mailto:lavanya.pureddy02@gmail.com)
 
 ⚡ Fun fact:Never miss debugging your code
 <br><br>
