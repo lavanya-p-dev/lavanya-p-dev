@@ -75,7 +75,7 @@
  [![CodeChef](https://img.shields.io/badge/-CodeChef-333333?style=flat-square&logo=codechef)](https://www.codechef.com/users/pureddylavanya)&nbsp;
  [![HackerEarth](https://img.shields.io/badge/-HackerEarth-333333?style=flat-square&logo=hackerearth)](https://www.hackerearth.com/@PureddyLavanya)&nbsp;
  [![HackerRank](https://img.shields.io/badge/-HackerRank-333333?style=flat-square&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/Lavanya7133?hr_r=1)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/PureddyLavanya.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/lavanya-p-dev?tab=followers)
+<!-- [![GitHub followers](https://img.shields.io/github/followers/PureddyLavanya.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/lavanya-p-dev?tab=followers) -->
 <br><br>
 
 🌟 From <a href="https://github.com/lavanya-p-dev">PureddyLavanya</a>
