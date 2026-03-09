@@ -21,7 +21,7 @@
       <br><br> -->
 🔭 I’m currently working on `Angular,React Projects`
 
-🌱 I’m currently learning `Angular,React`
+🌱 I’m currently learning `Java Backend,Next.Js`
 
 👯 I’m looking to collaborate on `open source project`
 
