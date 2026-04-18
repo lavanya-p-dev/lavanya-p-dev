@@ -19,15 +19,15 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lavanya-p-dev)](https://github.com/lavanya-p-dev)
       <br><br> -->
-🔭 I’m currently working on `Angular,React Projects`
+🔭 I’m currently working on `Frontend Development`
 
-🌱 I’m currently learning `Java Backend,Next.Js`
+🌱 I’m currently learning `Next.Js`
 
 👯 I’m looking to collaborate on `open source project`
 
 👨‍💻 All of my projects are available at <a href="https://github.com/lavanya-p-dev"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></a>
 
-💬 Ask me about html,css,javascript
+<!--💬 Ask me about html,css,javascript-->
 
 📫 How to reach me: &nbsp;[![gmail](https://img.shields.io/badge/-Gmail-333333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pureddylavanya2002@gmail.com)](mailto:lavanya.pureddy02@gmail.com)
 
@@ -70,7 +70,7 @@
 <br><br> -->
 
 `Visit My Profiles`:<br><br>
-&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=Linkedin&link=[https://www.linkedin.com/in/p-lavanya-3147p/]([https://www.linkedin.com/in/pureddylavanya/](https://www.linkedin.com/in/pureddylavanya/)))](https://www.linkedin.com/in/pureddylavanya/)&nbsp; 
+&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/pureddylavanya/)&nbsp;
  [![leetcode](https://img.shields.io/badge/-Leetcode-333333?style=flat-square&logo=leetcode)](https://leetcode.com/Lavanyap89/)&nbsp;
  [![CodeChef](https://img.shields.io/badge/-CodeChef-333333?style=flat-square&logo=codechef)](https://www.codechef.com/users/pureddylavanya)&nbsp;
  [![HackerEarth](https://img.shields.io/badge/-HackerEarth-333333?style=flat-square&logo=hackerearth)](https://www.hackerearth.com/@PureddyLavanya)&nbsp;
