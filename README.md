@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi👋 I'm Pureddy Lavanya</h1>
-<h3 align="center">Frontend Developer</h3> 
+<h3 align="center">Software Developer</h3> 
 <!-- <p align="center" >
   <samp>
     My name is <em>Pureddy Lavanya</em>. I am a Frontend Developer... 
@@ -21,7 +21,7 @@
       <br><br> -->
 🔭 I’m currently working on `Frontend Development`
 
-🌱 I’m currently learning `Next.Js`
+🌱 I’m currently learning `Java Full Stack Development`
 
 👯 I’m looking to collaborate on `open source project`
 
